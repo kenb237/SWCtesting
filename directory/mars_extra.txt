@@ -1,1 +1,3 @@
 this will document rover data
+actually, the rover was hit by an asteroid and is destroyed
+another is on the way
